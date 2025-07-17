@@ -27,6 +27,7 @@ Example notebooks:
 * [run_Cellpose-SAM.ipynb](https://github.com/MouseLand/cellpose/blob/main/notebooks/run_Cellpose-SAM.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/cellpose/blob/main/notebooks/run_Cellpose-SAM.ipynb): run Cellpose-SAM on your own data, mounted in google drive
 * [test_Cellpose-SAM.ipynb](https://github.com/MouseLand/cellpose/blob/main/notebooks/test_Cellpose-SAM.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/cellpose/blob/main/notebooks/test_Cellpose-SAM.ipynb): shows running Cellpose-SAM using example data in 2D and 3D
 * [train_Cellpose-SAM.ipynb](https://github.com/MouseLand/cellpose/blob/main/notebooks/train_Cellpose-SAM.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MouseLand/cellpose/blob/main/notebooks/train_Cellpose-SAM.ipynb): train Cellpose-SAM on your own labeled data (also optional example data provided)
+* [batch_restoration_example.ipynb](notebooks/batch_restoration_example.ipynb): run image restoration with Cellpose on a directory of PNGs locally (activate your cellpose environment first)
 
 :triangular_flag_on_post: The Cellpose-SAM model is trained on data that is licensed under **CC-BY-NC**. The Cellpose annotated dataset is also CC-BY-NC.
 
